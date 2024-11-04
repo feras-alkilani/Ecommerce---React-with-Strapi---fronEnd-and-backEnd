@@ -36,7 +36,7 @@ export default function Footer() {
           color="primary"
         >
           <Link
-            href="https://feras-alkilani-portfolio.netlify.app/"
+            href="https://feras-alkilani-portfolio.vercel.app/"
             underline="none"
             sx={{ color: "primary" }}
           >
